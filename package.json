@@ -14,9 +14,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://fcoaldunate@bitbucket.org/knguro/boodskapper-app.git"
+    "url": "https://github.com/faldunate/boodskapper.git"
   },
   "author": "francisco aldunate",
   "license": "ISC",
-  "homepage": "https://bitbucket.org/knguro/boodskapper-app#readme"
+  "homepage": "https://github.com/faldunate/boodskapper.git#readme"
 }
